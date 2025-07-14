@@ -1,5 +1,7 @@
 # flight_checkin.rb
 
+# this was meant to be a livecode for Isaac
+
 passengers = []
 
 def show_menu
